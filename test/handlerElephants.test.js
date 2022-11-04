@@ -30,4 +30,8 @@ describe('Testes da função handlerElephants', () => {
   test('Espera que a funçao handlerElephant retorne um array de residents caso seja name', () => {
     expect(handlerElephants('names')).toStrictEqual(['Ilana', 'Orval', 'Bea', 'Jefferson']);
   });
+
+  test('Espera que a funçao handlerElephant retorne a media de idade caso seja averageAge', () => {
+    expect(handlerElephants('averageAge')).toBe(10.5);
+  });
 });
