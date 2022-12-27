@@ -1,4 +1,4 @@
-const { employees } = require('../data/zoo_data');
+//  Buscar por pessoas colaboradoras através de seu primeiro ou último nomeconst { employees } = require('../data/zoo_data');
 const data = require('../data/zoo_data');
 
 function getEmployeeByName(employeeName) {
