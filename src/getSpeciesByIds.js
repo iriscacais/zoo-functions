@@ -1,3 +1,4 @@
+//  Buscar as espécies dos animais por meio de um ID e retornar um array contendo todos os animais dessa espécie.
 const { species } = require('../data/zoo_data');
 const data = require('../data/zoo_data');
 
