@@ -1,4 +1,4 @@
-const { employees } = require('../data/zoo_data');
+// Verificar se uma pessoa colaboradora é gerente e quais pessoas ela lideraconst { employees } = require('../data/zoo_data');
 const data = require('../data/zoo_data');
 
 function isManager(id) {
