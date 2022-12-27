@@ -1,13 +1,11 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Projeto zoo-functions :lion:
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+## Desenvolvido no módulo de fundamentos do curso de desenvolvimento web da Trybe :rocket:
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+### Descrição do projeto
+Último projeto desenvolvido no módulo de fundamentos. Foram aplicados conhecimentos relacionados as Higher Order Functions (sort / map / filter / reduce) para desenvolver funções que buscam informações de animais e funcionários no sistema de um zoológico. Além disso, escrever testes para duas funções já existentes (criadas pela trybe / getOpeningHours e handlerElephants) de forma que também fosse possível praticar utilizando uma mentalidade orientada a testes.
+
+### Tecnologias usadas no desenvolvimento do projeto
+- JavaScript (ES6)
+  - Higher Order Functions
+- Jest
