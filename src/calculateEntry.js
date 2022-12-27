@@ -1,4 +1,4 @@
-const data = require('../data/zoo_data');
+// Calcular o valor total da entrada dos visitantes no zooconst data = require('../data/zoo_data');
 
 function countEntrants(entrants) {
   const child = entrants.filter((entrant) => entrant.age < 18);
