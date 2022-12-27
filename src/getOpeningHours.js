@@ -1,4 +1,4 @@
-const { hours } = require('../data/zoo_data');
+// Função desenvolvida pela trybe. Requisito do projeto pede para implementar testes para essa funçãoconst { hours } = require('../data/zoo_data');
 
 const weekDays = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
 const dayError = 'The day must be valid. Example: Monday';
