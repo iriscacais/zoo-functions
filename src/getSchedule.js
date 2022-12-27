@@ -1,4 +1,4 @@
-const data = require('../data/zoo_data');
+// Disponibilizar um cronograma com os horários de visita da semana disponíveis para cada espécie de animal.const data = require('../data/zoo_data');
 const { species } = require('../data/zoo_data');
 const { hours } = require('../data/zoo_data');
 
