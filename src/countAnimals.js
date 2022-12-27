@@ -1,3 +1,4 @@
+// Contabilizar a quantidade de espécies de animais residentes no zoo
 const { species } = require('../data/zoo_data');
 const data = require('../data/zoo_data');
 
