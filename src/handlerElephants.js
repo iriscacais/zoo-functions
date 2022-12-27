@@ -1,3 +1,4 @@
+// Função desenvolvida pela trybe. Requisito do projeto pede para implementar testes para essa função
 const { species } = require('../data/zoo_data');
 
 const getElephants = () =>
